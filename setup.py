@@ -7,7 +7,7 @@ def readme():
 
 setup(
   name='keepyourdate',
-  version='0.0.1',
+  version='0.0.2',
   author='Mishalov_Bogdan',
   author_email='bogdanmissss@gmail.com',
   description='Simple daily event keeper.',
