@@ -13,7 +13,7 @@ setup(
   description='Simple daily event keeper.',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='https://github.com/zizardev/datekeeper',
+  url='https://github.com/zizardev/keepyourdate',
   packages=find_packages(),
   classifiers=[
     'Programming Language :: Python :: 3.11',
@@ -22,7 +22,7 @@ setup(
   ],
   keywords='calendar keep date',
   project_urls={
-    'GitHub': 'https://github.com/zizardev/datekeeper'
+    'GitHub': 'https://github.com/zizardev/keepyourdate'
   },
   python_requires='>=3.6'
 )
