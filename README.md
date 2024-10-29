@@ -5,7 +5,7 @@ This is a **simple** library for storing and viewing events.
 
 ## Quick Guide 
 ```python
-from datekeeper import *
+from keepyourdate import *
 add("Name event", "Description event", "start date (example: 2024-10-28 10:00)", "end date(example: 2024-10-30 20:00)")
 history()
 ```
