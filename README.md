@@ -27,5 +27,5 @@ archive() #Events that have expired.
 ```
 ---
 ## Developer 
-my website: soon
+my website: [click](https://zizardev.github.io/website/index.html]
 pypi: [click](https://pypi.org/project/keepyourdate/)
